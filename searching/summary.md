@@ -34,11 +34,12 @@ Two basic algorithms exists.
 	 - Binary search is not as very effective for too larger number of keys 
 	 - **B-trees** which cluster keys into pages to minimize the number of disk accesses per search.
 
-
+ - #### Can I guess where the key should be?
+	 - 
 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTg3MzAxNCwxMjc4NDA2ODk0LDEwND
-A0OTQxOTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzcyOTMzMjIsMTI3ODQwNjg5NCwxMD
+QwNDk0MTkzXX0=
 -->
