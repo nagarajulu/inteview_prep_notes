@@ -33,10 +33,12 @@
 		- simple external sorting approach is to use **B-tree** and then read keys in in-order traversal to get them in sorted.
 		- **high-performance external sorting** algorithms are based on **multiway-mergesort**.
 			- files containing portion of data is sorted using fast internal sort
-			- files with sorted runs are merged using 2-way or k-way merging.
+			- files with sorted runs are merged using **2-way or k-way** merging.
 
+### Optimizing quick sort
+One of the best general purpose internal 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTYxODAzNiwtNzAwNTIxOTc1LC0yMD
-kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
+eyJoaXN0b3J5IjpbLTE0Mzg4NTM4NTMsLTcwMDUyMTk3NSwtMj
+A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
 -->
