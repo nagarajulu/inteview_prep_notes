@@ -6,17 +6,15 @@
 ## Choosing the sorting algorithm
 
 ### How many keys will you be sorting?
-| Number of elements | insertion sort |
+| Number of elements | Sorting algorithm |
 |--|--|
-| n<=100 |  |
-
- - when n <=100, insertion sort is faster, simpler. shell sort also works. 
- - when n>100, pick any O(nlogn) algorithms: heapsort, mergesort, quicksort.
- - 
+| n<=100 | insertion sort, shell sort |
+| n > 100 | O(nlogn) algorithms: heapsort, mergesort, quicksort |
+| n > 5000
 
 	
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODI1MzU0OV19
+eyJoaXN0b3J5IjpbLTE2NTgyNDY3MzhdfQ==
 -->
