@@ -16,20 +16,24 @@ Two basic algorithms exists.
 	 - Reduce comparisons in **sequential search** by placing most popular items in front and least popular towards end.
 	 - For **binary search** trees, keeping most popular ones to root is quite complicated, that too ensuring BST won't end up like sequential search.
 		 - Optimal BST implementation is needed (keeping it balanced)
+
  - #### Might access frequencies change over time?
 	- **self-organizing lists**: order of keys change in response to the queries.
 		- eg: **move-to-front**: most recently searched item will be moved to front of list, from its current position
 		- **splay trees**: self-organizing BST's that rotate each searched node to the root. [implementation reference - search for slay](http://www.cs.princeton.edu/~rs/Algs3.java1-4/code.txt)
 			- offer excellent amortized performance guarantees.
+
  - #### Is the search key close by?
 	- We know target key is to the right of position **p**, and we know its nearby
 	- Try out **one-sided binary search** technique:
 		- try larger intervals (p+1, p+2, P+4, p+8, p+16, ...) to the right until we find a key to the right of our target
 		- we will now have a window containing target and peform the regular binary search.
 		- **this technique** is particularly useful in unbounded search problems.
+
+
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzc0ODM2NiwxMjc4NDA2ODk0LDEwND
+eyJoaXN0b3J5IjpbMTY0MTkyMjE1NCwxMjc4NDA2ODk0LDEwND
 A0OTQxOTNdfQ==
 -->
