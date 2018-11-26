@@ -29,10 +29,12 @@
 	- Radix sort also can be used.
 - **Do i have to worry about disk accesses?**
 	- in massive sorting problems, its impossible to keep all data set in memory
-		- **external sorting** method is used, since data needs to 
+		- **external sorting** method is used, since external storage needs to be used.
+		- simple external sorting approach is to use **B-tree** and then read keys in in-order traversal to get them in sorted.
+		- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjE4NjYzNywtNzAwNTIxOTc1LC0yMD
-kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
+eyJoaXN0b3J5IjpbLTE4OTAzMjE4OTEsLTcwMDUyMTk3NSwtMj
+A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
 -->
