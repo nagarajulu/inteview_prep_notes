@@ -26,10 +26,10 @@ Two basic algorithms exists.
 	- Try out **one-sided binary search** technique:
 		- try larger intervals (p+1, p+2, P+4, p+8, p+16, ...) to the right until we find a key to the right of our target
 		- we will now have a window containing target and peform the regular binary search.
-		- **this
+		- **this technique** is particularly useful in unbounded search problems.
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODcwNDIyNywxMjc4NDA2ODk0LDEwND
+eyJoaXN0b3J5IjpbMTgzMzc0ODM2NiwxMjc4NDA2ODk0LDEwND
 A0OTQxOTNdfQ==
 -->
