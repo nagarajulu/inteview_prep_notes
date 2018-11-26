@@ -31,10 +31,11 @@
 	- in massive sorting problems, its impossible to keep all data set in memory
 		- **external sorting** method is used, since external storage needs to be used.
 		- simple external sorting approach is to use **B-tree** and then read keys in in-order traversal to get them in sorted.
-		- 
+		- high-performance external sorting algorithms are based on multiway-mergesort.
+			- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAzMjE4OTEsLTcwMDUyMTk3NSwtMj
-A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbMTI2MTcxNTY5NywtNzAwNTIxOTc1LC0yMD
+kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
 -->
