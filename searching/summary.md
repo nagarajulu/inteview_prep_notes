@@ -20,10 +20,10 @@ Two basic algorithms exists.
 	- **self-organizing lists**: order of keys change in response to the queries.
 		- eg: **move-to-front**: most recently searched item will be moved to front of list, from its current position
 		- **splay trees**: self-organizing BST's that rotate each searched node to the root. 
-			- offer excellent amortized 
+			- offer excellent amortized performance guarantees.
 	
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc1ODQwMzJdfQ==
+eyJoaXN0b3J5IjpbMTA0MDQ5NDE5M119
 -->
