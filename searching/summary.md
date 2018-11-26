@@ -30,7 +30,7 @@ Two basic algorithms exists.
 		- we will now have a window containing target and peform the regular binary search.
 		- **this technique** is particularly useful in unbounded search problems.
 
- - #### Is my data structure sitting on external memory?
+ - ### Is my data structure sitting on external memory?
 	 - Binary search is not as very effective for too larger number of keys 
 	 - **B-trees** which cluster keys into pages to minimize the number of disk accesses per search.
 
@@ -43,6 +43,6 @@ Two basic algorithms exists.
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjQxNjIxMywtMzI5NzQ5NjI5LDEyNz
+eyJoaXN0b3J5IjpbLTEwOTQxMDc4MiwtMzI5NzQ5NjI5LDEyNz
 g0MDY4OTQsMTA0MDQ5NDE5M119
 -->
