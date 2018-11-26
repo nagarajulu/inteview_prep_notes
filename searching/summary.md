@@ -17,8 +17,9 @@ Two basic algorithms exists.
 	 - For **binary search** trees, keeping most popular ones to root is quite complicated, that too ensuring BST won't end up like sequential search.
 		 - Optimal BST implementation is needed (keeping it balanced)
  - #### Might access frequencies change over time?
-	- s
+	- **self-organizing lists**: order of keys change in response to the queries.
+	- eg: move-to-front: most recently searched item will be moved to front of list, from its current position
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4Mjg5MTg3XX0=
+eyJoaXN0b3J5IjpbOTkyMzE3NTMzXX0=
 -->
