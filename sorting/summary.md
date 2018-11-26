@@ -41,9 +41,12 @@ One of the best general purpose internal sorting algorithm is quick sort, but it
  - Use randomization: 
 	 - randomly permute keys before sorting. this eliminates the quadratic-time behavior for nearly sorted data.
 - Choosing the pivot:
+	- for pivot, use the median of the first, last and middle elements of array
+	- this increases likelihood of equally partitioning the array.
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEzNDk5MTUsLTcwMDUyMTk3NSwtMj
-A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbLTY3MDU1OTQ3LC03MDA1MjE5NzUsLTIwOT
+E4NjIwNjgsLTE0OTMyODgxMjksMTQxMTY3ODQzXX0=
 -->
