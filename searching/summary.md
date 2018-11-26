@@ -2,10 +2,10 @@
 
 ## Basic Approaches
 Two basic algorithms exists.
- - Sequential Search
+ - **Sequential Search**
 	 - time complexity - O (n)
 	 - generally faster up to 20 elements
- - Binary Search
+ - **Binary Search**
 	 - time complexity - O (log n)
 	 - input array must be sorted
 	 - efficient when n > 100 elements
@@ -14,5 +14,5 @@ Two basic algorithms exists.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjQwNDIzM119
+eyJoaXN0b3J5IjpbMTQ0MTc0NDExOV19
 -->
