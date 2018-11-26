@@ -24,10 +24,11 @@ Two basic algorithms exists.
  - #### Is the search key close by?
 	- We know target key is to the right of position **p**, and we know its nearby
 	- Try out **one-sided binary search** technique:
-		- 
+		- try larger intervals (p+1, p+2, P+4, p+8, p+16, ...) to the right until we find a key to the right of our target
+		- we will now have a wi
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODgzMzg2LDEyNzg0MDY4OTQsMTA0MD
-Q5NDE5M119
+eyJoaXN0b3J5IjpbLTE2NjUzNjgxNywxMjc4NDA2ODk0LDEwND
+A0OTQxOTNdfQ==
 -->
