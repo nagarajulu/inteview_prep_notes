@@ -14,8 +14,10 @@
 
 ### Will there be duplicate keys in the data?
 
+ - Sorting works without any issues for unique keys.
+ - If there are duplicate keys in 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjkyNzk5MSwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbMTIzNjA2OTg1MCwxNDExNjc4NDNdfQ==
 -->
