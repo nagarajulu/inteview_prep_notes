@@ -36,9 +36,13 @@
 			- files with sorted runs are merged using **2-way or k-way** merging.
 
 ### Optimizing quick sort
-One of the best general purpose internal 
+One of the best general purpose internal sorting algorithm is quick sort, but it needs to tuned to achieve maximum performance.
+
+ - Use randomization: 
+	 - 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg4NTM4NTMsLTcwMDUyMTk3NSwtMj
-A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5ODQyNzE1MSwtNzAwNTIxOTc1LC0yMD
+kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
 -->
