@@ -28,10 +28,11 @@
 	- if the keys are long text, then its better to use short prefix for sorting (say first 10 chars), if any ties can be resolved using full text.
 	- Radix sort also can be used.
 - **Do i have to worry about disk accesses?**
-	- sd
+	- in massive sorting problems, its impossible to keep all data set in memory
+		- **external sorting** method is used, since data needs to 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDUyMTk3NSwtMjA5MTg2MjA2OCwtMT
-Q5MzI4ODEyOSwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbMTQzNjE4NjYzNywtNzAwNTIxOTc1LC0yMD
+kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
 -->
