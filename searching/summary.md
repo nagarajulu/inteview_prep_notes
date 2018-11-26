@@ -31,11 +31,14 @@ Two basic algorithms exists.
 		- **this technique** is particularly useful in unbounded search problems.
 
  - #### Is my data structure sitting on external memory?
-	 - Binary search is not as effective for larger number of keys.
+	 - Binary search is not as very effective for too larger number of keys 
+	 - **B-trees** which cluster keys into pages to minimize the number of disk accesses per search.
+
+
 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY1NzU0MjYsMTI3ODQwNjg5NCwxMD
-QwNDk0MTkzXX0=
+eyJoaXN0b3J5IjpbLTcxNTg3MzAxNCwxMjc4NDA2ODk0LDEwND
+A0OTQxOTNdfQ==
 -->
