@@ -12,9 +12,10 @@
 | n > 100 | O(nlogn) algorithms: heapsort, mergesort, quicksort |
 | n > 5,000,000| External-memory sorting algorithms | 
 
-	
+### Will there be duplicate keys in the data?
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTY3ODQzXX0=
+eyJoaXN0b3J5IjpbLTc3MjkyNzk5MSwxNDExNjc4NDNdfQ==
 -->
