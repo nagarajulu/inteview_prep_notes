@@ -37,11 +37,11 @@ Two basic algorithms exists.
  - #### Can I guess where the key should be?
 	 - **interpolation search** where we explore our understanding of distribution of the keys to guess where to look next.
 		 - eg: telephone book
-		 - 
+		 - need to work very hard to optimize this search alogrithm as 
 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTg4MzI4NiwxMjc4NDA2ODk0LDEwND
+eyJoaXN0b3J5IjpbMTEzMzk3NzIwMCwxMjc4NDA2ODk0LDEwND
 A0OTQxOTNdfQ==
 -->
