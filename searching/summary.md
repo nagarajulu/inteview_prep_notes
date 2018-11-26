@@ -21,9 +21,11 @@ Two basic algorithms exists.
 		- eg: **move-to-front**: most recently searched item will be moved to front of list, from its current position
 		- **splay trees**: self-organizing BST's that rotate each searched node to the root. [implementation reference - search for slay](http://www.cs.princeton.edu/~rs/Algs3.java1-4/code.txt)
 			- offer excellent amortized performance guarantees.
-	
+ - #### 
+
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODQwNjg5NCwxMDQwNDk0MTkzXX0=
+eyJoaXN0b3J5IjpbMjAxMjExNjk5OSwxMjc4NDA2ODk0LDEwND
+A0OTQxOTNdfQ==
 -->
