@@ -39,10 +39,11 @@
 One of the best general purpose internal sorting algorithm is quick sort, but it needs to tuned to achieve maximum performance.
 
  - Use randomization: 
-	 - 
+	 - randomly permute keys before sorting. this eliminates the quadratic-time behavior for nearly sorted data.
+- Choosing the pivot:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQyNzE1MSwtNzAwNTIxOTc1LC0yMD
-kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
+eyJoaXN0b3J5IjpbLTExOTEzNDk5MTUsLTcwMDUyMTk3NSwtMj
+A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
 -->
