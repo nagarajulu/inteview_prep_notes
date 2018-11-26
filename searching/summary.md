@@ -22,10 +22,11 @@ Two basic algorithms exists.
 		- **splay trees**: self-organizing BST's that rotate each searched node to the root. [implementation reference - search for slay](http://www.cs.princeton.edu/~rs/Algs3.java1-4/code.txt)
 			- offer excellent amortized performance guarantees.
  - #### Is the search key close by?
-
+	- We know target key is to the right of position **p**, and we know its nearby
+	- 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjI5NzkzLDEyNzg0MDY4OTQsMTA0MD
-Q5NDE5M119
+eyJoaXN0b3J5IjpbLTE3NTcwNzUwNSwxMjc4NDA2ODk0LDEwND
+A0OTQxOTNdfQ==
 -->
