@@ -35,11 +35,13 @@ Two basic algorithms exists.
 	 - **B-trees** which cluster keys into pages to minimize the number of disk accesses per search.
 
  - #### Can I guess where the key should be?
-	 - 
+	 - **interpolation search** where we explore our understanding of distribution of the keys to guess where to look next.
+		 - eg: telephone book
+		 - 
 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyOTMzMjIsMTI3ODQwNjg5NCwxMD
-QwNDk0MTkzXX0=
+eyJoaXN0b3J5IjpbLTc2OTg4MzI4NiwxMjc4NDA2ODk0LDEwND
+A0OTQxOTNdfQ==
 -->
