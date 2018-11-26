@@ -20,10 +20,12 @@
 
 ### What do you know about your data?
 
- - Has the data already been partially sorted?
-	 - 
+ - **Has the data already been partially sorted?**
+	 - insertion sort might perform better
+- **Do you know the distribution of the keys?**
+	- if the keys are uniformly or randomly 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjk3MjY0MiwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbMTcxNDgxNzA0NiwxNDExNjc4NDNdfQ==
 -->
