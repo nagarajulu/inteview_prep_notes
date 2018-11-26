@@ -30,10 +30,12 @@ Two basic algorithms exists.
 		- we will now have a window containing target and peform the regular binary search.
 		- **this technique** is particularly useful in unbounded search problems.
 
+ - #### Is my data structure sitting on external memory?
+	 - Binary search is not as effective for larger number of keys.
 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTkyMjE1NCwxMjc4NDA2ODk0LDEwND
-A0OTQxOTNdfQ==
+eyJoaXN0b3J5IjpbLTIwODY1NzU0MjYsMTI3ODQwNjg5NCwxMD
+QwNDk0MTkzXX0=
 -->
