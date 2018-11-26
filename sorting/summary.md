@@ -16,8 +16,9 @@
 
  - Sorting works without any issues for unique keys.
  - If there are duplicate keys in data set, and if you need to preserve the **original ordering** of elements after sort, then you need to use **stable** sorting algorithms.
+	 - Eg: **merge sort** is stable where as **quick sort** is not.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NDg2NTQxLDE0MTE2Nzg0M119
+eyJoaXN0b3J5IjpbLTIwNTgzOTI0NTIsMTQxMTY3ODQzXX0=
 -->
