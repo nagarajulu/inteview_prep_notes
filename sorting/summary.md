@@ -27,10 +27,11 @@
 - **Are your keys very long or hard to compare?**
 	- if the keys are long text, then its better to use short prefix for sorting (say first 10 chars), if any ties can be resolved using full text.
 	- Radix sort also can be used.
-- ** Do i have to worry about disk accesses? 
+- ** Do i have to worry about disk accesses? **
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDYyMjA0OSwtMjA5MTg2MjA2OCwtMT
+eyJoaXN0b3J5IjpbMTM4ODYwNTYzNiwtMjA5MTg2MjA2OCwtMT
 Q5MzI4ODEyOSwxNDExNjc4NDNdfQ==
 -->
