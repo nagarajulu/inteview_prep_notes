@@ -26,10 +26,11 @@
 	- if the keys are uniformly or randomly distributed, then **bucket or distribution sort** works better
 - **Are your keys very long or hard to compare?**
 	- if the keys are long text, then its better to use short prefix for sorting (say first 10 chars), if any ties can be resolved using full text.
-	- 
+	- Radix sort also can be used.
+-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIwMTg2MDAsLTE0OTMyODgxMjksMT
+eyJoaXN0b3J5IjpbLTIwOTE4NjIwNjgsLTE0OTMyODgxMjksMT
 QxMTY3ODQzXX0=
 -->
