@@ -46,9 +46,10 @@ One of the best general purpose internal sorting algorithm is quick sort, but it
 - Leave the small subarrays for insertion sort
 	- terminating quicksort recursion and switching to insertion sort, when n < 20 elements
 - Do the smaller partition first
+	- assuming modern compiler can remove tail recursion, we can minimize the run-time memory by processing the smaller partition before the larger one.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTE4OTUxMywtNzAwNTIxOTc1LC0yMD
-kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
+eyJoaXN0b3J5IjpbLTE2NjcyMjYyMTAsLTcwMDUyMTk3NSwtMj
+A5MTg2MjA2OCwtMTQ5MzI4ODEyOSwxNDExNjc4NDNdfQ==
 -->
