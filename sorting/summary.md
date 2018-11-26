@@ -23,9 +23,11 @@
  - **Has the data already been partially sorted?**
 	 - insertion sort might perform better
 - **Do you know the distribution of the keys?**
-	- if the keys are uniformly or randomly 
+	- if the keys are uniformly or randomly distributed, then **bucket or distribution sort** works better
+- **Are your keys very long or hard to compare?**
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDgxNzA0NiwxNDExNjc4NDNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTMyODgxMjksMTQxMTY3ODQzXX0=
 -->
