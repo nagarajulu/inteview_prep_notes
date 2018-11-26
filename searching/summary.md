@@ -14,9 +14,10 @@ Two basic algorithms exists.
 
  - #### Are certain items accessed more often than other ones?
 	 - Reduce comparisons in **sequential search** by placing most popular items in front and least popular towards end.
- - List item
+	 - For binary search trees, keeping most popular ones to root is quite complicated, that too ensuring BST
+ - #### Might access frequencies change over time?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI2NzY4OV19
+eyJoaXN0b3J5IjpbLTE3MTQ4NDc2NThdfQ==
 -->
