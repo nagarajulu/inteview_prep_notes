@@ -23,10 +23,11 @@ Two basic algorithms exists.
 			- offer excellent amortized performance guarantees.
  - #### Is the search key close by?
 	- We know target key is to the right of position **p**, and we know its nearby
-	- 
+	- Try out **one-sided binary search** technique:
+		- 
 	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTcwNzUwNSwxMjc4NDA2ODk0LDEwND
-A0OTQxOTNdfQ==
+eyJoaXN0b3J5IjpbLTUzODgzMzg2LDEyNzg0MDY4OTQsMTA0MD
+Q5NDE5M119
 -->
