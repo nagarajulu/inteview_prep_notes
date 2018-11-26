@@ -18,8 +18,10 @@ Two basic algorithms exists.
 		 - Optimal BST implementation is needed (keeping it balanced)
  - #### Might access frequencies change over time?
 	- **self-organizing lists**: order of keys change in response to the queries.
-	- eg: move-to-front: most recently searched item will be moved to front of list, from its current position
+		- eg: **move-to-front**: most recently searched item will be moved to front of list, from its current position
+	
+	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMzE3NTMzXX0=
+eyJoaXN0b3J5IjpbLTI4MTk0MjAzMV19
 -->
