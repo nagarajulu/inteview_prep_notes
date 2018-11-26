@@ -1,4 +1,6 @@
 # Searching
+
+## Basic Approaches
 Two basic algorithms exists.
  - Sequential Search
 	 - time complexity - O (n)
@@ -8,7 +10,9 @@ Two basic algorithms exists.
 	 - input array must be sorted
 	 - efficient when n > 100 elements
 
+## Identifying variant of searching algorithm
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk5NjM0MzRdfQ==
+eyJoaXN0b3J5IjpbLTczNjQwNDIzM119
 -->
