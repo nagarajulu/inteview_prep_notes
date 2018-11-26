@@ -43,10 +43,12 @@ One of the best general purpose internal sorting algorithm is quick sort, but it
 - Choosing the pivot:
 	- for pivot, use the median of the first, last and middle elements of array
 	- this increases likelihood of equally partitioning the array.
-- 
+- Leave the small subarrays for insertion sort
+	- terminating quicksort recursion and switching to insertion sort, when n < 20 elements
+- Do the smaller partition first
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDU1OTQ3LC03MDA1MjE5NzUsLTIwOT
-E4NjIwNjgsLTE0OTMyODgxMjksMTQxMTY3ODQzXX0=
+eyJoaXN0b3J5IjpbMTExNTE4OTUxMywtNzAwNTIxOTc1LC0yMD
+kxODYyMDY4LC0xNDkzMjg4MTI5LDE0MTE2Nzg0M119
 -->
