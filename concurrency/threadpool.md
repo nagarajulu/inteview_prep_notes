@@ -14,9 +14,11 @@
 | newCachedThreadPool() | Creates a thread pool that creates new                                   threads as needed, but will reuse previously                                   constructed threads when they are available|
 | newSingleThreadExecutor() | Creates a single thread | 
 
+![TP Exec 1](http://cdncontribute.geeksforgeeks.org/wp-content/uploads/tprun1.jpg)
 
+### Steps for thread pool creato
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTczMTA1LC0xMzk5MDkxNjA2LDQ5OD
-E0MTcyMl19
+eyJoaXN0b3J5IjpbMjI1NDU0Njk4LC00Nzk3MzEwNSwtMTM5OT
+A5MTYwNiw0OTgxNDE3MjJdfQ==
 -->
