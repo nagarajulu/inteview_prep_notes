@@ -19,9 +19,12 @@
 ### Steps for thread pool usage.
 1. Create Runnable tasks to be executed
 2. Create Executor pool using Executors utility class
-3. Pass / submit the runnable tasks to execu
+3. Pass / submit the runnable tasks to executor pool for execution
+4. Shutdown the executor pool
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk5ODA2MDUsLTQ3OTczMTA1LC0xMz
+eyJoaXN0b3J5IjpbLTE1MDA5MjI5MDUsLTQ3OTczMTA1LC0xMz
 k5MDkxNjA2LDQ5ODE0MTcyMl19
 -->
