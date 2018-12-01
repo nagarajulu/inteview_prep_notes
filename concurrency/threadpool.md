@@ -7,10 +7,12 @@
 * ThreadPoolExecutor class allows to set the core and maximum pool size.
 * The runnables that are run by a particular thread are executed sequentially
 
-## Threa
-
+## Executor Thread Pool Methods
+| Method Name | Purpose | 
+|--|--|
+| 	| 	|	
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNTI1NDI1LC0xMzk5MDkxNjA2LDQ5OD
+eyJoaXN0b3J5IjpbODYyNjkzNjY2LC0xMzk5MDkxNjA2LDQ5OD
 E0MTcyMl19
 -->
