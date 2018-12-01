@@ -11,11 +11,12 @@
 | Method Name | Purpose | 
 |--|--|
 | newFixedThreadPool(int)	| Creates a fixed size thread pool.	|	
-| newCachedThreadPool() | Creates a thread pool that creates new 
-                                  threads as needed, but will reuse previously 
-                                  constructed threads when they are available|
+| newCachedThreadPool() | Creates a thread pool that creates new                                   threads as needed, but will reuse previously                                   constructed threads when they are available|
+| newSingleThreadExecutor() | Creates a single thread | 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTg4MzI0OSwtMTM5OTA5MTYwNiw0OT
-gxNDE3MjJdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTczMTA1LC0xMzk5MDkxNjA2LDQ5OD
+E0MTcyMl19
 -->
