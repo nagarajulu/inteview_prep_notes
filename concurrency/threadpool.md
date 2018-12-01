@@ -16,9 +16,12 @@
 
 ![TP Exec 1](http://cdncontribute.geeksforgeeks.org/wp-content/uploads/tprun1.jpg)
 
-### Steps for thread pool creato
+### Steps for thread pool usage.
+1. Create Runnable tasks to be executed
+2. Create Executor pool using Executors utility class
+3. Pass / submit the runnable tasks to execu
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NDU0Njk4LC00Nzk3MzEwNSwtMTM5OT
-A5MTYwNiw0OTgxNDE3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzk5ODA2MDUsLTQ3OTczMTA1LC0xMz
+k5MDkxNjA2LDQ5ODE0MTcyMl19
 -->
