@@ -23,19 +23,18 @@
 4. Shutdown the executor pool
 
 Example:
-
-    ```java
+    
     ExecutorService executor = Executors.newSingleThreadExecutor();
     executor.submit(() -> {
 	    String threadName = Thread.currentThread().getName();
 	    System.out.println("Hello " + threadName);
     });
     // => Hello pool-1-thread-1
-`````
+    
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTUzMTgyOSwtMTUwMDkyMjkwNSwtND
-c5NzMxMDUsLTEzOTkwOTE2MDYsNDk4MTQxNzIyXX0=
+eyJoaXN0b3J5IjpbLTE1ODIwMjU4NTUsLTE1MDA5MjI5MDUsLT
+Q3OTczMTA1LC0xMzk5MDkxNjA2LDQ5ODE0MTcyMl19
 -->
