@@ -8,6 +8,8 @@
 * The runnables that are run by a particular thread are executed sequentially
 
 ## Executor Thread Pool Methods
+class `Executors` provides convenient factory methods for creating different kinds of executor services.
+
 | Method Name | Purpose | 
 |--|--|
 | newFixedThreadPool(int)	| Creates a fixed size thread pool.	|	
@@ -32,9 +34,13 @@ Example:
     // => Hello pool-1-thread-1
     
 
+An `ExecutorService` provides two methods for that purpose: `shutdown()` waits for currently running tasks to finish while `shutdownNow()` interrupts all running tasks and shut the executor down immediately
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIwMjU4NTUsLTE1MDA5MjI5MDUsLT
-Q3OTczMTA1LC0xMzk5MDkxNjA2LDQ5ODE0MTcyMl19
+eyJoaXN0b3J5IjpbNzE5MDI2MzE5LC0xNTgyMDI1ODU1LC0xNT
+AwOTIyOTA1LC00Nzk3MzEwNSwtMTM5OTA5MTYwNiw0OTgxNDE3
+MjJdfQ==
 -->
