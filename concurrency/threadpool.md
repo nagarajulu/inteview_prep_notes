@@ -57,9 +57,6 @@ An `ExecutorService` provides two methods for that purpose: `shutdown()` waits f
 
 ### Callables and Futures
 
-In addition to  `Runnable`  executors, support another kind of task    named  `Callable`. Callables are functional interfaces just like    runnables but instead of being  `void`  they return a value.
-
-This lambda expression defines a callable returning an integer after    sleeping for one second
 
     ```java
     Callable<Integer> task = () -> {
@@ -73,11 +70,25 @@ This lambda expression defines a callable returning an integer after    sleeping
   };
 ```
 
-s
+Since `submit()` doesn't wait until the task completes, the executor service cannot return the result of the callable directly. Instead the executor returns a special result of type `Future` which can be used to retrieve the actual result at a later point in time.
+
+```java
+ExecutorService executor = Executors.newFixedThreadPool(1);
+Future<Integer> future = executor.submit(task);
+
+System.out.println("future done? " + future.isDone());
+
+Integer result = future.get();
+
+System.out.println("future done? " + future.isDone());
+System.out.print("result: " + result);
+```
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTQ0NDAwLC01MTM2MTMyNzQsNzE5MD
-I2MzE5LC0xNTgyMDI1ODU1LC0xNTAwOTIyOTA1LC00Nzk3MzEw
-NSwtMTM5OTA5MTYwNiw0OTgxNDE3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTc2NzM3OCwtNTY1NDQ0MDAsLTUxMz
+YxMzI3NCw3MTkwMjYzMTksLTE1ODIwMjU4NTUsLTE1MDA5MjI5
+MDUsLTQ3OTczMTA1LC0xMzk5MDkxNjA2LDQ5ODE0MTcyMl19
 -->
