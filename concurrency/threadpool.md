@@ -61,9 +61,21 @@ In addition to  `Runnable`  executors, support another kind of task named  `Call
 
 This lambda expression defines a callable returning an integer after sleeping for one second
 
+    ```java
+    Callable<Integer> task = () -> {
+    try {
+        TimeUnit.SECONDS.sleep(1);
+        return 123;
+    }
+    catch (InterruptedException e) {
+        throw new IllegalStateException("task interrupted", e);
+    }
+  };
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTczNzAzNiwtNTEzNjEzMjc0LDcxOT
-AyNjMxOSwtMTU4MjAyNTg1NSwtMTUwMDkyMjkwNSwtNDc5NzMx
-MDUsLTEzOTkwOTE2MDYsNDk4MTQxNzIyXX0=
+eyJoaXN0b3J5IjpbLTE0NTU0MDU5ODMsLTUxMzYxMzI3NCw3MT
+kwMjYzMTksLTE1ODIwMjU4NTUsLTE1MDA5MjI5MDUsLTQ3OTcz
+MTA1LC0xMzk5MDkxNjA2LDQ5ODE0MTcyMl19
 -->
