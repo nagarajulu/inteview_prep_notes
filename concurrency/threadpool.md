@@ -57,6 +57,9 @@ An `ExecutorService` provides two methods for that purpose: `shutdown()` waits f
 
 ### Callables and Futures
 
+In addition to  `Runnable`  executors, support another kind of task    named  `Callable`. Callables are functional interfaces just like    runnables but instead of being  `void`  they return a value.
+
+This lambda expression defines a callable returning an integer after    sleeping for one second
 
     ```java
     Callable<Integer> task = () -> {
@@ -88,7 +91,7 @@ System.out.print("result: " + result);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc2NzM3OCwtNTY1NDQ0MDAsLTUxMz
+eyJoaXN0b3J5IjpbLTIyMTM0ODc0MywtNTY1NDQ0MDAsLTUxMz
 YxMzI3NCw3MTkwMjYzMTksLTE1ODIwMjU4NTUsLTE1MDA5MjI5
 MDUsLTQ3OTczMTA1LC0xMzk5MDkxNjA2LDQ5ODE0MTcyMl19
 -->
