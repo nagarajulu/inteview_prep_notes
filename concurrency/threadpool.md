@@ -36,11 +36,29 @@ Example:
 
 An `ExecutorService` provides two methods for that purpose: `shutdown()` waits for currently running tasks to finish while `shutdownNow()` interrupts all running tasks and shut the executor down immediately
 
+#### Betterway to shutdown
 
+    ```java
+    try {
+	    System.out.println("attempt to shutdown executor");
+	    executor.shutdown();
+	    executor.awaitTermination(5, TimeUnit.SECONDS);
+    }
+    catch (InterruptedException e) {
+	    System.err.println("tasks interrupted");
+    }
+    finally {
+    if (!executor.isTerminated()) {
+        System.err.println("cancel non-finished tasks");
+    }
+    executor.shutdownNow();
+    System.out.println("shutdown finished");
+    }
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDI2MzE5LC0xNTgyMDI1ODU1LC0xNT
-AwOTIyOTA1LC00Nzk3MzEwNSwtMTM5OTA5MTYwNiw0OTgxNDE3
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTExNjY4NzA5OTYsNzE5MDI2MzE5LC0xNT
+gyMDI1ODU1LC0xNTAwOTIyOTA1LC00Nzk3MzEwNSwtMTM5OTA5
+MTYwNiw0OTgxNDE3MjJdfQ==
 -->
