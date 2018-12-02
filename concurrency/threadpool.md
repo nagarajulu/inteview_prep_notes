@@ -22,9 +22,20 @@
 3. Pass / submit the runnable tasks to executor pool for execution
 4. Shutdown the executor pool
 
+Example:
+
+    ```java
+    ExecutorService executor = Executors.newSingleThreadExecutor();
+    executor.submit(() -> {
+	    String threadName = Thread.currentThread().getName();
+	    System.out.println("Hello " + threadName);
+    });
+    // => Hello pool-1-thread-1
+`````
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA5MjI5MDUsLTQ3OTczMTA1LC0xMz
-k5MDkxNjA2LDQ5ODE0MTcyMl19
+eyJoaXN0b3J5IjpbMTA4NTUzMTgyOSwtMTUwMDkyMjkwNSwtND
+c5NzMxMDUsLTEzOTkwOTE2MDYsNDk4MTQxNzIyXX0=
 -->
