@@ -7,9 +7,14 @@ Linked Lists
 Queues, Stacks
 Permutations (Combinatorics)
 Interval Problems
-Points in 2-D space
-Rectangles in 2-D 
+Points in 2-D axis
+Rectangles in 2-D axis
+Graphs - DFS, BFS
+Topological Sorting, Shortest Path, MST
+Trees - Binary tree, N-ary tree
+Tries - Prefix trees.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQwNjAxNjddfQ==
+eyJoaXN0b3J5IjpbLTE5NzI3ODQ4MTBdfQ==
 -->
