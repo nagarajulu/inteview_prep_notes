@@ -11,6 +11,7 @@ Below are different categories of coding problems:
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 * [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+* [First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 
 ## Matrices
 
@@ -32,6 +33,6 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcxODA1NDIsMTEwNzQyNDY2LC0xOT
-cyNzg0ODEwXX0=
+eyJoaXN0b3J5IjpbMTE0NzE2MzYxMCwtMTQ4NzE4MDU0MiwxMT
+A3NDI0NjYsLTE5NzI3ODQ4MTBdfQ==
 -->
