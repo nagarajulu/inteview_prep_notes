@@ -15,6 +15,7 @@ Below are different categories of coding problems:
 ## Matrices
 
 * [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+* [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
 
 ## Strings
 
@@ -31,6 +32,6 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5Mzk5NjY1LDExMDc0MjQ2NiwtMTk3Mj
-c4NDgxMF19
+eyJoaXN0b3J5IjpbLTE0ODcxODA1NDIsMTEwNzQyNDY2LC0xOT
+cyNzg0ODEwXX0=
 -->
