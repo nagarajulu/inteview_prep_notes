@@ -6,11 +6,15 @@ Below are different categories of coding problems:
 
 * [Search in Rotated Sorted Array - II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) and [Find Min in Rotated Sorted Array - II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water) and [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
-* [Subsets](https://leetcode.com/problems/subsets)
+* [Subsets](https://leetcode.com/problems/subsets) and [Subsets II](https://leetcode.com/problems/subsets-ii)
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 * [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
+## Matrices
+
+* [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+* 
 ## Strings
 
 Linked Lists
@@ -26,5 +30,6 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzQyNDY2LC0xOTcyNzg0ODEwXX0=
+eyJoaXN0b3J5IjpbLTEwMDY2NDEwMjUsMTEwNzQyNDY2LC0xOT
+cyNzg0ODEwXX0=
 -->
