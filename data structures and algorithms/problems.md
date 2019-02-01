@@ -4,6 +4,7 @@ Below are different categories of coding problems:
 
 ## Arrays
 
+* [3Sum](https://leetcode.com/problems/3sum)
 * [Search in Rotated Sorted Array - II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) and [Find Min in Rotated Sorted Array - II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water) and [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 * [Subsets](https://leetcode.com/problems/subsets) and [Subsets II](https://leetcode.com/problems/subsets-ii)
@@ -14,7 +15,7 @@ Below are different categories of coding problems:
 ## Matrices
 
 * [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
-* 
+
 ## Strings
 
 Linked Lists
@@ -30,6 +31,6 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY2NDEwMjUsMTEwNzQyNDY2LC0xOT
-cyNzg0ODEwXX0=
+eyJoaXN0b3J5IjpbODc5Mzk5NjY1LDExMDc0MjQ2NiwtMTk3Mj
+c4NDgxMF19
 -->
