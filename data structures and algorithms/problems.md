@@ -2,6 +2,8 @@
 ## Coding Interview Questions By Topic
 Below are different categories of coding problems:
 Arrays
+
+* [Search in Rotated Sorted Array - II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) and Find Min in Rote
 Strings
 Linked Lists
 Queues, Stacks
@@ -16,5 +18,5 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI3ODQ4MTBdfQ==
+eyJoaXN0b3J5IjpbNjA5NTQ2NDI3LC0xOTcyNzg0ODEwXX0=
 -->
