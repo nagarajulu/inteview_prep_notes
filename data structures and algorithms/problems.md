@@ -5,7 +5,7 @@ Below are different categories of coding problems:
 ## Arrays
 
 * [Search in Rotated Sorted Array - II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) and [Find Min in Rotated Sorted Array - II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-* [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+* [Container With Most Water](https://leetcode.com/problems/container-with-most-water) and [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 * [Subsets](https://leetcode.com/problems/subsets)
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
@@ -26,6 +26,5 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI5MDgyNDksLTE5NzI3ODQ4MTBdfQ
-==
+eyJoaXN0b3J5IjpbMTEwNzQyNDY2LC0xOTcyNzg0ODEwXX0=
 -->
