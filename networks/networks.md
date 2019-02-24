@@ -13,9 +13,10 @@ Below are some of key Network concepts:
 	 - Ping - check if target server is online
 	 - Tracert - trace packets routes from source to dest.
 	 - Nslookup - DNS records lookup
-	 - dig - debug intermediate DNS servers
+	 - dig - debug intermediate DNS servers (domain - A, CNAME, mail - MX)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDY2NDQ4NiwxNzg5NzIzMjc0XX0=
+eyJoaXN0b3J5IjpbMTU4OTkwODk4NCwtNDE0NjY0NDg2LDE3OD
+k3MjMyNzRdfQ==
 -->
