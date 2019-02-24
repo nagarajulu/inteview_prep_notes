@@ -9,7 +9,7 @@ Below are some of key Network concepts:
  - DNS
  - Packet Switching
  - Network Debug Commands
-	 - Ipconfig /all
+	 - Ipconfig /all - display host IP / DNS / Router info.
 	 - Ping - check if target server is online
 	 - Tracert - trace packets routes from source to dest.
 	 - Nslookup - DNS records lookup
@@ -17,5 +17,5 @@ Below are some of key Network concepts:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzQ5MDMwMiwxNzg5NzIzMjc0XX0=
+eyJoaXN0b3J5IjpbLTQxNDY2NDQ4NiwxNzg5NzIzMjc0XX0=
 -->
