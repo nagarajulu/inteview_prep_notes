@@ -8,20 +8,12 @@ Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 
 ## Comparison of AWS Products with GCP
 
-|Category| AWS | Google Cloud Platform |
-|--|--|--|
-|Compute| Elastic Compute Cloud (EC2) | Compute Engine  |
-| | Elastic Beanstalk | App Engine |
-| | Elastic Container Registry (ECR)| Container Registry|
-| | Elastic Container Service (ECS) | Container Engine |
-| | Lambda (Serverless) | Cloud Functions |
-|Storage|Simple Storage Service (S3) | Cloud Storage |
-| | Elastic File Storage (EFS) / Elastic Block Storage| Persistent Disks
-
+https://cloud.google.com/free/docs/map-aws-google-cloud-platform
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzMwMDU0LDE2NTAyMzUxMzYsLTc2MT
-cxODE0OCwxMDc1MTAzNDEsLTE0OTU4NTc5MzksMTE5NTk5OTA3
-OSwtMTMxMzE5NDI4OCwtNDkyODcyMjUxXX0=
+eyJoaXN0b3J5IjpbLTIwMjc2MDU0NzksLTI2MzMwMDU0LDE2NT
+AyMzUxMzYsLTc2MTcxODE0OCwxMDc1MTAzNDEsLTE0OTU4NTc5
+MzksMTE5NTk5OTA3OSwtMTMxMzE5NDI4OCwtNDkyODcyMjUxXX
+0=
 -->
