@@ -15,12 +15,13 @@ Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 | | Elastic Container Registry (ECR)| Container Registry|
 | | Elastic Container Service (ECS) | Container Engine |
 | | Lambda (Serverless) | Cloud Functions |
+|Storage|Simple Storage Service (S3) | Cloud Storage |
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTcxODE0OCwxMDc1MTAzNDEsLTE0OT
-U4NTc5MzksMTE5NTk5OTA3OSwtMTMxMzE5NDI4OCwtNDkyODcy
-MjUxXX0=
+eyJoaXN0b3J5IjpbMTY1MDIzNTEzNiwtNzYxNzE4MTQ4LDEwNz
+UxMDM0MSwtMTQ5NTg1NzkzOSwxMTk1OTk5MDc5LC0xMzEzMTk0
+Mjg4LC00OTI4NzIyNTFdfQ==
 -->
