@@ -8,13 +8,14 @@ Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 
 ## Comparison of AWS Products with GCP
 
-| AWS | Google Cloud Platform |
-|--|--|
-| Elastic Compute Cloud (EC2) | Compute Engine  |
+|Category| AWS | Google Cloud Platform |
+|--|--|--|
+|Compute| Elastic Compute Cloud (EC2) | Compute Engine  |
+| | 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzkyNDkwNiwtMTQ5NTg1NzkzOSwxMT
-k1OTk5MDc5LC0xMzEzMTk0Mjg4LC00OTI4NzIyNTFdfQ==
+eyJoaXN0b3J5IjpbMTA3NTEwMzQxLC0xNDk1ODU3OTM5LDExOT
+U5OTkwNzksLTEzMTMxOTQyODgsLTQ5Mjg3MjI1MV19
 -->
