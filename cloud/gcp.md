@@ -10,11 +10,11 @@ Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 
 | AWS | Google Cloud Platform |
 |--|--|
-| Elastic Compute Cloud (EC2) |   |
+| Elastic Compute Cloud (EC2) | Compute Engine  |
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA1Mjk1NjksLTE0OTU4NTc5MzksMT
-E5NTk5OTA3OSwtMTMxMzE5NDI4OCwtNDkyODcyMjUxXX0=
+eyJoaXN0b3J5IjpbMTEzMzkyNDkwNiwtMTQ5NTg1NzkzOSwxMT
+k1OTk5MDc5LC0xMzEzMTk0Mjg4LC00OTI4NzIyNTFdfQ==
 -->
