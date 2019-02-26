@@ -16,12 +16,12 @@ Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 | | Elastic Container Service (ECS) | Container Engine |
 | | Lambda (Serverless) | Cloud Functions |
 |Storage|Simple Storage Service (S3) | Cloud Storage |
-| | Elastic File Storage (EFS) / Elastic Block Storage| 
+| | Elastic File Storage (EFS) / Elastic Block Storage| Persistent Disks
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4NzAyNjUsMTY1MDIzNTEzNiwtNz
-YxNzE4MTQ4LDEwNzUxMDM0MSwtMTQ5NTg1NzkzOSwxMTk1OTk5
-MDc5LC0xMzEzMTk0Mjg4LC00OTI4NzIyNTFdfQ==
+eyJoaXN0b3J5IjpbLTI2MzMwMDU0LDE2NTAyMzUxMzYsLTc2MT
+cxODE0OCwxMDc1MTAzNDEsLTE0OTU4NTc5MzksMTE5NTk5OTA3
+OSwtMTMxMzE5NDI4OCwtNDkyODcyMjUxXX0=
 -->
