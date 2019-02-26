@@ -3,6 +3,8 @@
 
 Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 
+## Google Cloud Platform - Summary of Products
+
 ## Comparison of AWS Products with GCP
 
 | AWS | Google Cloud Platform |
@@ -12,5 +14,6 @@ Fundamentals: https://www.youtube.com/watch?v=r0zCs2b_ReY
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMxOTQyODgsLTQ5Mjg3MjI1MV19
+eyJoaXN0b3J5IjpbMTE5NTk5OTA3OSwtMTMxMzE5NDI4OCwtND
+kyODcyMjUxXX0=
 -->
