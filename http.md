@@ -65,10 +65,38 @@ Method = "OPTIONS"
 
 ### Response Format
 
+The response format is similar to the request message, except for the status line and headers. The status line has the following structure:
 
+    Status-Line = HTTP-Version SP Status-Code SP Reason-Phrase CRLF
+
+-   HTTP-Version is sent as  `HTTP/1.1`
+-   The Status-Code is one of the many statuses discussed earlier.
+-   The Reason-Phrase is a human-readable version of the status code.
+
+A typical status line for a successful response might look like so:
+
+HTTP/1.1 200 OK
+
+The response headers are also fairly limited, and the full set is given below:
+
+     response-header = Accept-Ranges
+                     | Age
+                     | ETag              
+                     | Location          
+                     | Proxy-Authenticate
+                     | Retry-After       
+                     | Server            
+                     | Vary              
+                     | WWW-Authenticate
+
+-   `Age`  is the time in seconds since the message was generated on the server.
+-   `ETag`  is the MD5 hash of the entity and used to check for modifications.
+-   `Location`  is used when sending a redirection and contains the new URL.
+-   `Server`  identifies the server generating the message.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzOTUyNzk3LC0xOTkzMzY0MDIzLDEyOT
-g5NTY5NjcsMjIxMzMxNTQsLTQyNzIwNDk5XX0=
+eyJoaXN0b3J5IjpbMjU2MDY3NjMyLDgyMzk1Mjc5NywtMTk5Mz
+M2NDAyMywxMjk4OTU2OTY3LDIyMTMzMTU0LC00MjcyMDQ5OV19
+
 -->
