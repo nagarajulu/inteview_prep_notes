@@ -14,9 +14,9 @@
    (IP, Port).
  
  - HTTP 1.0: All connections are closed after a single transaction. 
- - HTTP 1.1 Supports **persistent** connections i.e. they are kept open until client explicitly asks to close and they are default.
- 
- - Client can explicitly set `'Connection: close'` header if server can
+ - HTTP 1.1 Supports **persistent** connections i.e. long-lived connections, they are kept open until client explicitly asks to close. 
+	 - They are default in HTTP 1.1.
+	 - Client can explicitly set `'Connection: close'` header if server can
    close connection after sending back response.
    
  - Browsers/Clients also leverage technique '**parallel**' connections,
@@ -30,5 +30,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTc2NjY5Ml19
+eyJoaXN0b3J5IjpbLTQyNzIwNDk5XX0=
 -->
