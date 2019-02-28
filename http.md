@@ -1,6 +1,10 @@
 
 # HTTP and HTTPS Protocols
 
+## References
+
+[HTTP 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+[HTTP 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 ## Key Notes
 
  - Stateless Protocol
@@ -39,6 +43,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODk1Njk2NywyMjEzMzE1NCwtNDI3Mj
-A0OTldfQ==
+eyJoaXN0b3J5IjpbLTYwMzU5MjYwMiwxMjk4OTU2OTY3LDIyMT
+MzMTU0LC00MjcyMDQ5OV19
 -->
