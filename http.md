@@ -10,9 +10,9 @@
 ### HTTP Connections
 HTTP Connection is established between Client (IP, Port) and Server (IP, Port).
 
-HTTP 1.0 supports only 
+HTTP 1.0: All connections are closed after a single
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMwMjA5MTFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjM2OTkwOThdfQ==
 -->
