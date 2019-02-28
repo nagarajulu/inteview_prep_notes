@@ -19,8 +19,8 @@ Browsers/Clients also leverage technique '**parallel**' connections, to minimize
 ## HTTP Headers
 
 ### General Headers
-All HTTP 1.1 clients are required to accept `Transfer-Encoding
+All HTTP 1.1 clients are required to accept Transfer-Encoding: chunked header. this is used to break the response into smaller parts; 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODczNTg5XX0=
+eyJoaXN0b3J5IjpbNzYxNjI3NThdfQ==
 -->
