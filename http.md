@@ -3,8 +3,10 @@
 
 ## References
 
-[HTTP 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 [HTTP 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+[HTTP 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
 ## Key Notes
 
  - Stateless Protocol
@@ -43,6 +45,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzU5MjYwMiwxMjk4OTU2OTY3LDIyMT
-MzMTU0LC00MjcyMDQ5OV19
+eyJoaXN0b3J5IjpbLTE5OTMzNjQwMjMsMTI5ODk1Njk2NywyMj
+EzMzE1NCwtNDI3MjA0OTldfQ==
 -->
