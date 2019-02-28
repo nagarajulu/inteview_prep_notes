@@ -12,7 +12,12 @@ Following are key steps in HTTPS Communication
 
 For 2-ways SSL Handshake, server needs the client's SSL/Digital certificate. server would use this to encrypt back info, client would use its private key to decrypt.
 
+Refer [Two-way-SSL-handshake-process](http://www.cheat-sheets.org/saved-copy/Ssl_handshake_with_two_way_authentication_with_certificates-1.pdf) 
+
+RNC - Random Number Client, RNS - Random Number Server
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzU4MTgxNF19
+eyJoaXN0b3J5IjpbLTExODc5MjcwNTksLTI5MzU4MTgxNF19
 -->
