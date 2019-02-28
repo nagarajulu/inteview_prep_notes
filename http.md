@@ -16,8 +16,10 @@ HTTP 1.1 Supports **persistent** connections and they are default. Client can ex
 
 Browsers/Clients also leverage technique '**parallel**' connections, to minimize the network delays.
 
+## HTTP Headers
 
+### 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3NjMwMzc0XX0=
+eyJoaXN0b3J5IjpbOTQ0Nzc0NDg3XX0=
 -->
