@@ -30,9 +30,10 @@
  - Via Header is used in TRACE command, and is updated by all intermediate proxies/gateways/routers with its IP
  
  ### Entity Headers
-
+ - Content-* headers (Content-Type, Content-Length, Content-Encoding, Content-La
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMzMxNTQsLTQyNzIwNDk5XX0=
+eyJoaXN0b3J5IjpbMTcwNDk4NTYyOSwyMjEzMzE1NCwtNDI3Mj
+A0OTldfQ==
 -->
