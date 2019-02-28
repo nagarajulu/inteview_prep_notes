@@ -32,10 +32,12 @@
  ### Entity Headers
  - Content-* headers (Content-Type, Content-Length, Content-Encoding, Content-Language, Content-Location etc) specify structure, encoding, and size of message. 
 	 - some of these headers are applicable when the relevant entity is present in body.
+Expires, Last-Modified are used to track when the message expires, or was last modified.
+Custom headers can be created by client, and are treated as entity headers by the HTT.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcyNTkxNDgsMjIxMzMxNTQsLTQyNz
-IwNDk5XX0=
+eyJoaXN0b3J5IjpbNzEyODMzOTEzLDIyMTMzMTU0LC00MjcyMD
+Q5OV19
 -->
