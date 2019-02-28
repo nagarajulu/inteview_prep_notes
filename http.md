@@ -27,10 +27,12 @@
 ### General Headers
 
  - All HTTP 1.1 clients are required to accept `Transfer-Encoding: chunked` header. this is used to break the response into smaller parts; Allows streaming of server responses instead of one big payload to client.
- - Via Header is used in TRACE command, and is updated by all intermediate proxies/gateways/routers with
+ - Via Header is used in TRACE command, and is updated by all intermediate proxies/gateways/routers with its IP
+ 
+ ### Entity Headers
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjczODg0NSwtNDI3MjA0OTldfQ==
+eyJoaXN0b3J5IjpbMjIxMzMxNTQsLTQyNzIwNDk5XX0=
 -->
