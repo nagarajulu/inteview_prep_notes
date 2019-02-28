@@ -61,10 +61,14 @@ Method = "OPTIONS"
     Pragma: no-cache
     Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 
+`From`, `Host`, `Referer` and `User-Agent` identify details about the client that initiated the request. The `If-` prefixed headers are used to make a request more conditional, and the server returns the resource only if the condition matches
+
+### Response Format
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTM1Nzk3MiwtMTk5MzM2NDAyMywxMj
-k4OTU2OTY3LDIyMTMzMTU0LC00MjcyMDQ5OV19
+eyJoaXN0b3J5IjpbODIzOTUyNzk3LC0xOTkzMzY0MDIzLDEyOT
+g5NTY5NjcsMjIxMzMxNTQsLTQyNzIwNDk5XX0=
 -->
