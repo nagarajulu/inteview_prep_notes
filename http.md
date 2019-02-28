@@ -41,10 +41,30 @@
  - Expires, Last-Modified are used to track when the message expires, or was last modified.
  - Custom headers can be created by client, and are treated as entity headers by the HTTP protocol.
 
+### Request format
+
+Request-Line = Method SP URI SP HTTP-Version CRLF
+Method = "OPTIONS"
+       | "HEAD"  
+       | "GET"  
+       | "POST"  
+       | "PUT"  
+       | "DELETE"  
+       | "TRACE"
+
+`SP`  is the space separator between the tokens.  `HTTP-Version`  is specified as  _"HTTP/1.1"_  and then followed by a new line. Thus, a typical request message might look like:
+
+    GET /articles/http-basics HTTP/1.1
+    Host: www.articles.com
+    Connection: keep-alive
+    Cache-Control: no-cache
+    Pragma: no-cache
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMzNjQwMjMsMTI5ODk1Njk2NywyMj
-EzMzE1NCwtNDI3MjA0OTldfQ==
+eyJoaXN0b3J5IjpbLTgyNTM1Nzk3MiwtMTk5MzM2NDAyMywxMj
+k4OTU2OTY3LDIyMTMzMTU0LC00MjcyMDQ5OV19
 -->
