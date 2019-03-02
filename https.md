@@ -14,10 +14,10 @@ For 2-ways SSL Handshake, server needs the client's SSL/Digital certificate. ser
 
 Refer [Two-way-SSL-handshake-process](http://www.cheat-sheets.org/saved-copy/Ssl_handshake_with_two_way_authentication_with_certificates-1.pdf) 
 
-RNC - Random Number Client, RNS - Random Number Server
+in diagram -> RNC - Random Number Client, RNS - Random Number Server
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc5MjcwNTksLTI5MzU4MTgxNF19
+eyJoaXN0b3J5IjpbLTI2NTk2OTg2LC0yOTM1ODE4MTRdfQ==
 -->
