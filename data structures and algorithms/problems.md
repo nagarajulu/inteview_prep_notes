@@ -19,6 +19,7 @@ Below are different categories of coding problems:
 * [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
 * [Longest Line of Consecutive One's ](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)
 * [Longest Increasing Path In a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+
 ## Strings
 
 Linked Lists
@@ -34,6 +35,6 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI1NjMzNzcsMTE0NzE2MzYxMCwtMT
+eyJoaXN0b3J5IjpbLTEwMzk0NjI5NDMsMTE0NzE2MzYxMCwtMT
 Q4NzE4MDU0MiwxMTA3NDI0NjYsLTE5NzI3ODQ4MTBdfQ==
 -->
