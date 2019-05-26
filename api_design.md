@@ -5,13 +5,13 @@
 	* Good code is modular - each module has an API
 * Useful modules tend to get reused
 	* good reusable modules are corporate assets
-	* 
- think in terms of 
+	* once module has users, can't change users at will
+* thinking in terms of APIs improves code quality
 * Start with with one page API spec
 * Start with example usage/implementation code as you Spec API
 * Writing Service Provider Interface for API is important.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTMzMzQxNiwxNTA5ODY0NTIsMTQ1MT
-M3NzYwMl19
+eyJoaXN0b3J5IjpbNzE5NjY3NzYzLC01MzEzMzM0MTYsMTUwOT
+g2NDUyLDE0NTEzNzc2MDJdfQ==
 -->
