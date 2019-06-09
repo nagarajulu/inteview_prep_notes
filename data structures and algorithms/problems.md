@@ -1,5 +1,5 @@
 
-## Coding Interview Questions By Topic
+## Top Coding Interview Questions By Topic
 Below are different categories of coding problems:
 
 ## Arrays
@@ -35,6 +35,7 @@ Tries - Prefix trees.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk0NjI5NDMsMTE0NzE2MzYxMCwtMT
-Q4NzE4MDU0MiwxMTA3NDI0NjYsLTE5NzI3ODQ4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE4ODk0NTgxMzIsLTEwMzk0NjI5NDMsMT
+E0NzE2MzYxMCwtMTQ4NzE4MDU0MiwxMTA3NDI0NjYsLTE5NzI3
+ODQ4MTBdfQ==
 -->
