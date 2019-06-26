@@ -22,8 +22,12 @@ References:
 
 1) Knowledge base: [https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 
-2) Coding (small programs): http://email.triplebyte.com/c/eJxFTztuhDAUPA0ukW38wYULlihSUuQK6GE_WO8CRs5DCrcPSYpopphp5oMrpGWgc0df8IGBMLLkJReOa9kKoyVXtag71btO9NL0xnH7cqsUp5L2BceTsA55ZXdvQwutGx0HDGhbmCBOseGX0NKacWL415WfuHkbIzeg9CSCCHFqtI5NAy4IZa27wBZ_J9qrpqvk60X8whLS51qnfDlW_AYzFHgcy1HDtWb-yf4dQv9HCu5IiVLehpCPjTxnAbaYIhAOR1meePr3vM9vHweL3lplBHwDa5NYBA
+2) Coding (small programs): [https://exercism.io](https://exercism.io/)
+
+3) Practice interview style coding: Leetcode or hackerrank
+
+4) 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMzM2NTY5XX0=
+eyJoaXN0b3J5IjpbODgxMDY0NjYxXX0=
 -->
