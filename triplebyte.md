@@ -10,8 +10,12 @@ Topics to prepare for Interview.
 
 1. Coding
 2. Knowledge based questions
-	3
+2.1 Databases - normalization, indexes, tuning
+2.2 HTTP protocol - how it works in deep, cookies
+2.3 Web vs App Server - Scaling
+2.4 Caching how it works
+3. System Design
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTg2ODYxMl19
+eyJoaXN0b3J5IjpbLTg5MTkwNTc5MV19
 -->
