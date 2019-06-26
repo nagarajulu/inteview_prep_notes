@@ -21,7 +21,7 @@ Topics to prepare for Interview.
 	6.1 hash table - collisions
 	6.2 Bloom filter
 
-References:
+### References:
 
 1) Knowledge base: [https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 
@@ -29,8 +29,8 @@ References:
 
 3) Practice interview style coding: Leetcode or hackerrank
 
-4) 
+4) Data Structures & Algorithms: The Algorithm Design Manual
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTQwMTY4NV19
+eyJoaXN0b3J5IjpbNDk0NTY4MjUwLDIxNDU0MDE2ODVdfQ==
 -->
