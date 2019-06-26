@@ -14,9 +14,9 @@ Topics to prepare for Interview.
 2.2 HTTP protocol - how it works in deep, cookies
 2.3 Web vs App Server - Scaling
 2.4 Caching how it works
-3. System Design question - eg: given used car API, how do you design/sc
-4. 
+3. System Design question - eg: given used car API, how do you design/scale.
+4. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ5NTg3ODJdfQ==
+eyJoaXN0b3J5IjpbLTU1OTYyOTcwOV19
 -->
