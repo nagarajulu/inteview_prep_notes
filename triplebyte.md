@@ -18,6 +18,8 @@ Topics to prepare for Interview.
 4. System Design question - eg: given used car API, how do you design/scale.
 5. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading, inter-thread communication
 6. Data Structures & Algorithms - based questions.
+	6.1 hash table - collisions
+	6.2 Bloom filter
 
 References:
 
@@ -30,5 +32,5 @@ References:
 4) 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzk4Mjg5OV19
+eyJoaXN0b3J5IjpbMjE0NTQwMTY4NV19
 -->
