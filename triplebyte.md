@@ -15,8 +15,9 @@ Topics to prepare for Interview.
 2.3 Web vs App Server - Scaling
 2.4 Caching how it works
 3. System Design question - eg: given used car API, how do you design/scale.
-4. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading
+4. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading, inter-thread communication
+5. 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTYyOTcwOV19
+eyJoaXN0b3J5IjpbMjExNTkxODgxXX0=
 -->
