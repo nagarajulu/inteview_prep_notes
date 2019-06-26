@@ -8,15 +8,16 @@ Steps:
 
 Topics to prepare for Interview.
 
-1. Coding
-2. Knowledge based questions
+1. Coding - Eg: Given a tic-tac-toe game, how would you implement and how far could you go. 
+2. Debugging challenge - eg: given some webscraper, how would you fix issues?
+3. Knowledge based questions
 2.1 Databases - normalization, indexes, tuning
 2.2 HTTP protocol - how it works in deep, cookies
 2.3 Web vs App Server - Scaling
 2.4 Caching how it works
-3. System Design question - eg: given used car API, how do you design/scale.
-4. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading, inter-thread communication
-5. Data Structures & Algorithms
+4. System Design question - eg: given used car API, how do you design/scale.
+5. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading, inter-thread communication
+6. Data Structures & Algorithms - based questions.
 
 References:
 
@@ -29,5 +30,5 @@ References:
 4) 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMDY0NjYxXX0=
+eyJoaXN0b3J5IjpbMjEzNzk4Mjg5OV19
 -->
