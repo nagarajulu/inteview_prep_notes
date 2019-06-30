@@ -1,7 +1,10 @@
 ## System Design Questions
 
 ### Find the first non-repeating word in file
-Problem:  (file size > 100GB
+
+**Problem:  Given a text file of size say 100 GB? Task is to find first non repeating word in this file?  
+*constraints*: You can traverse the file only once.**
+
 
  - We would store every word in a map using key-value pairs <word, firstIndex>. 
  - We fill the map as we traverse the file. If we are adding a word that already has an entry, we set firstIndex to a NULL value. 
@@ -11,5 +14,5 @@ Problem:  (file size > 100GB
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTczMzA1NV19
+eyJoaXN0b3J5IjpbLTU2NjU5MTAyNV19
 -->
