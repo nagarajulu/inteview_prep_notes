@@ -20,6 +20,7 @@ Topics to prepare for Interview.
 6. Data Structures & Algorithms - based questions.
 	6.1 hash table - collisions
 	6.2 Bloom filter
+	6.3 Binary Search Trees - self balancing BSTs. learn one in detail.
 
 ### References:
 
@@ -32,5 +33,6 @@ Topics to prepare for Interview.
 4) Data Structures & Algorithms: The Algorithm Design Manual
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NTY4MjUwLDIxNDU0MDE2ODVdfQ==
+eyJoaXN0b3J5IjpbLTExMzA4ODMxMDUsNDk0NTY4MjUwLDIxND
+U0MDE2ODVdfQ==
 -->
