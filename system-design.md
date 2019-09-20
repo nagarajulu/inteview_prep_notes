@@ -12,7 +12,8 @@
  - This is a space complexity of O(k) where k is the number of unique words in the file, and a time complexity of O(n) where n is the file size.  
  - If they are English words, which are easily below a million, our space complexity will be below 10 megabytes, assuming 10 characters per word.
 
+### Design
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjU5MTAyNV19
+eyJoaXN0b3J5IjpbMTE5NTUzMzU3MCwtNTY2NTkxMDI1XX0=
 -->
