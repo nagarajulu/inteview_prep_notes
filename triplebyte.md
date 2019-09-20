@@ -11,10 +11,10 @@ Topics to prepare for Triplebyte Interview.
 1. Coding - Eg: Given a tic-tac-toe game, how would you implement and how far could you go. 
 2. Debugging challenge - eg: given some webscraper, how would you fix issues?
 3. Knowledge based questions
-2.1 Databases - normalization, indexes, tuning
-2.2 HTTP protocol - how it works in deep, cookies
-2.3 Web vs App Server - Scaling
-2.4 Caching how it works
+	3.1 Databases - normalization, indexes, tuning
+	3.2 HTTP protocol - how it works in deep, cookies
+	3.3 Web vs App Server - Scaling
+	3.4 Caching how it works
 4. System Design question - eg: given used car API, how do you design/scale.
 5. Operating Systems - Lock vs Mutex, Semaphore, Multi-threading, inter-thread communication
 6. Data Structures & Algorithms - based questions.
@@ -33,6 +33,6 @@ Topics to prepare for Triplebyte Interview.
 4) Data Structures & Algorithms: The Algorithm Design Manual
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzk0MjY3NywtMTEzMDg4MzEwNSw0OT
+eyJoaXN0b3J5IjpbMTgyNjAzNjA2NywtMTEzMDg4MzEwNSw0OT
 Q1NjgyNTAsMjE0NTQwMTY4NV19
 -->
