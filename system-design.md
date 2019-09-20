@@ -13,9 +13,12 @@
  - If they are English words, which are easily below a million, our space complexity will be below 10 megabytes, assuming 10 characters per word.
 
 ### Find top 10 errors by count in distributed logs ( about 100GB or more i.e. can't fit in one machine)
-Assume log format for each linis
+Assume log format for each entry is
 "timestamp, app-name, http status code, error message etc..."
+
+### Design short-term website/app which is used for 3 days, and is meant to accept donations from millions of volunteers across country for a charity.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDUyMDc4LC01NjY1OTEwMjVdfQ==
+eyJoaXN0b3J5IjpbMjExMjE2MzA3OSwtNTY2NTkxMDI1XX0=
 -->
