@@ -12,8 +12,10 @@
  - This is a space complexity of O(k) where k is the number of unique words in the file, and a time complexity of O(n) where n is the file size.  
  - If they are English words, which are easily below a million, our space complexity will be below 10 megabytes, assuming 10 characters per word.
 
-### Find top 10 errors by count in distributed logs ( about 1
+### Find top 10 errors by count in distributed logs ( about 100GB or more i.e. can't fit in one machine)
+Assume log format for each linis
+"timestamp, app-name, http status code, error message etc..."
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTQ2NDUxLC01NjY1OTEwMjVdfQ==
+eyJoaXN0b3J5IjpbLTMwMDUyMDc4LC01NjY1OTEwMjVdfQ==
 -->
