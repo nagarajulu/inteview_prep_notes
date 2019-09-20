@@ -16,9 +16,9 @@
 Assume log format for each entry is
 "timestamp, app-name, http status code, error message etc..."
 
-### Design short-term website/app which is used for 3 days, and is meant to accept donations from millions of volunteers across country for a charity.
+### Design short-term website/app which is used for 3 days, and is meant to accept donations from millions of volunteers across country for a charity. Assume 3rd party vendor does actual payment processing.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjE2MzA3OSwtNTY2NTkxMDI1XX0=
+eyJoaXN0b3J5IjpbODY4MzM4NjU2LC01NjY1OTEwMjVdfQ==
 -->
