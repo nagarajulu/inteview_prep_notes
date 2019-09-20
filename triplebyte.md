@@ -6,7 +6,7 @@ Steps:
 1. Online test - pick generalist
 2. Schedule Practice Interview to get idea of what triplebyte interview would be like
 
-Topics to prepare for Interview.
+Topics to prepare for Triplebyte Interview.
 
 1. Coding - Eg: Given a tic-tac-toe game, how would you implement and how far could you go. 
 2. Debugging challenge - eg: given some webscraper, how would you fix issues?
@@ -33,6 +33,6 @@ Topics to prepare for Interview.
 4) Data Structures & Algorithms: The Algorithm Design Manual
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA4ODMxMDUsNDk0NTY4MjUwLDIxND
-U0MDE2ODVdfQ==
+eyJoaXN0b3J5IjpbMTE4Mzk0MjY3NywtMTEzMDg4MzEwNSw0OT
+Q1NjgyNTAsMjE0NTQwMTY4NV19
 -->
