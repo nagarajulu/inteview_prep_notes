@@ -1,5 +1,7 @@
 ## System Design Questions
 
+There are questions I was asked during system design.
+
 ### Find the first non-repeating word in file
 
 **Problem:  Given a text file of size say 100 GB? Task is to find first non repeating word in this file?  
@@ -18,7 +20,24 @@ Assume log format for each entry is
 
 ### Design short-term website/app which is used for 3 days, and is meant to accept donations from millions of volunteers across country for a charity. Assume 3rd party vendor does actual payment processing.
 
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MzM4NjU2LC01NjY1OTEwMjVdfQ==
--->
+### Design a system capable of tracking bad request down quickly
+
+Say your system are expected to serve 100 billion requests per day on average,
+one day, a user complains that his client shows that one request failed,
+he wants you to help track the bad request down.
+
+How should you design such a system that is able to give the result to the user as quickly as possible.
+
+Note: You should consider scalability, imagine that you could possibly have hundreds of servers spread across tens of datacenters.
+
+### How to handle large log data?
+
+Image there is a website generates user access log in Terabytes scale every day. Each log contains many different information such as username, visiting time, location, page visited, and etc.
+what's your solution if we want to only store certain info(for example, user, login time, location) to a sql database. How to optimize the process.
+
+### Given log file of the past 24 hrs, return the top 3 errors, given time of 5 mins window.
+
+Log file format: goal is to return error codes.
+Log file size: 10 million entries.
+
+Timestamp, error code, some other entries

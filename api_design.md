@@ -10,8 +10,3 @@
 * Start with with one page API spec
 * Start with example usage/implementation code as you Spec API
 * Writing Service Provider Interface for API is important.
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NjY3NzYzLC01MzEzMzM0MTYsMTUwOT
-g2NDUyLDE0NTEzNzc2MDJdfQ==
--->
