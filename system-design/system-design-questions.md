@@ -25,7 +25,6 @@ Assume log format for each entry is
 Say your system are expected to serve 100 billion requests per day on average,
 one day, a user complains that his client shows that one request failed,
 he wants you to help track the bad request down.
-
 How should you design such a system that is able to give the result to the user as quickly as possible.
 
 Note: You should consider scalability, imagine that you could possibly have hundreds of servers spread across tens of datacenters.

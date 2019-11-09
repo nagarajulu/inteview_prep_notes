@@ -76,7 +76,7 @@
                 i) Communication / Network improvements
                         > TCP vs UDP
                         > REST vs RPC
-                        > RPC
+                        > Browser Protocols: XHR, SSE, WebSockets, WebRTC(audio/video)
                         > Data Serialization formats (Thrift, ProtoBuf, Apache Avro, Parquet, JSON/BSON, XML)
 			> HTTP1.1, HTTP2 
                         > HTTPS (SSL/TLS)
@@ -85,7 +85,7 @@
                                 > Duplicate detection
                                 > Integrity checks
                         > Symmetric (AES) vs Asymmetric Algorithms (RSA)
-
+                k) Disks: RAID, JBOD, SSD (modern SSDs support 4GB/s data transfer)
 ## (6) JUSTIFY [5 min]
 
 	(1) Throughput of each layer
