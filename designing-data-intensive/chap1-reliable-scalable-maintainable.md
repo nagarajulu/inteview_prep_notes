@@ -32,4 +32,19 @@ Over time, many different people will work on the system (engineering and operat
 both maintaining current behavior and adapting the system to new use
 cases), and they should all be able to work on it productively. 
 
+### Latency vs Response time
 
+*Latency* and *response time* are often used synonymously, but they are not the same. 
+
+The *response time* is what the client sees: besides the actual time to process the request (the *service time*), it includes
+network delays and queueing delays. 
+
+*Latency* is the duration that a request is waiting to be handled—during which it is *latent*, awaiting service
+
+#### Measuring performance
+
+It is better to use percentiles to measure performance, than avergae response times i.e. the 95th, 99th, and 99.9th percentiles are common (abbreviated p95, p99, and p999).
+
+They are the response time thresholds at which 95%, 99%, or 99.9% of requests are faster than that particular threshold. 
+
+For example, if the 95th percentile response time is 1.5 seconds, that means 95 out of 100 requests take less than 1.5 seconds, and 5 out of 100 requests take 1.5 seconds or more.
